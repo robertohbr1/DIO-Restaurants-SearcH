@@ -1,4 +1,4 @@
-Um ótimo projeto apresentado pelo Patrick Narciso através da DigitalInnovation One.
+Um ótimo projeto apresentado pelo Patrick Narciso através da Digital Innovation One.
 
 Fiz algumas melhorias no Projeto, como:
 - Um Checkbox para ver os Restaurantes Abertos agora.
