@@ -1,7 +1,7 @@
 Um ótimo projeto apresentado pelo Patrick Narciso através da Digital Innovation One.
 
 Fiz algumas melhorias no Projeto, como:
-- Um Checkbox para ver os Restaurantes Abertos agora.
+- Um Checkbox para ver os Restaurantes Abertos "agora".
 - A lista dos horários do Restaurante Selecionado.
 
 Veja mais em README-Orig.md
